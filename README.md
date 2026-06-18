@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Kalimath 👋
+# Hi, I'm Abhishek👋
 Artificial Intelligence & Data Science undergraduate at PES Modern College of Engineering, Pune.
 
 I build:
@@ -16,6 +16,5 @@ Highlights:
 * Strong foundation in Data Structures, Algorithms, and System Design
 
 Connect:
-
-📧 abhishekkalimath08@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-kalimath-6779ba2ba/)  
+abhishekkalimath08@gmail.com | [LinkedIn](https://www.linkedin.com/in/abhishek-kalimath-6779ba2ba/)  
 

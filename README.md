@@ -8,7 +8,7 @@ I build:
 * Retrieval-Augmented Generation (RAG) applications powered by LLMs
 
 Tech I use:
-Java, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Firebase, Git, GitHub, REST APIs, LLMs, RAG, Vector Search
+Java, JavaScript, React, PHP, Node.js, Express.js, MongoDB, MySQL, Firebase, Git, GitHub, REST APIs, LLMs, RAG, Vector Search
 
 Highlights:
 * Solved 300+ DSA problems on LeetCode

@@ -1,5 +1,5 @@
 # Hi, I'm Abhishek👋
-Artificial Intelligence & Data Science undergraduate at PES Modern College of Engineering, Pune.
+Artificial Intelligence & Data Science undergraduate at PES Modern College of Engineering, Pune with a strong interest in backend engineering, full-stack development, and AI-powered applications.
 
 I build:
 * Full-stack web applications using the MERN stack
@@ -11,8 +11,7 @@ Tech I use:
 Java, JavaScript, React, PHP, Node.js, Express.js, MongoDB, MySQL, Firebase, Git, GitHub, REST APIs, LLMs, RAG, Vector Search
 
 Highlights:
-* Solved 300+ DSA problems on LeetCode
-* Built AI-powered applications using RAG, embeddings, and LLMs
+* Solved 400+ DSA problems on LeetCode
 * Strong foundation in Data Structures, Algorithms, and System Design
 
 Connect:
